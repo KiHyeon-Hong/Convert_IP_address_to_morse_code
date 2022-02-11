@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "public-ip": "^5.0.0"
+  },
   "type": "module"
 }
